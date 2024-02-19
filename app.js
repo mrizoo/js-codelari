@@ -50,7 +50,7 @@ console.log(radius, pi);
 
 //moth operators + - / . . . 
 
-//conole.log(10/2)
+//console.log(10/2)
 
 // let result = 12 % 5
 // console.log(result);
